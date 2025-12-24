@@ -1,0 +1,7 @@
+[submodule "thethinkingbrain/public"]
+	path = thethinkingbrain/public
+	url = https://github.com/yjrobotics/thethinkingbrain.github.io.git
+	branch = main
+[submodule "thethinkingbrain/themes/gohugo-theme-ananke"]
+	path = thethinkingbrain/themes/gohugo-theme-ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
